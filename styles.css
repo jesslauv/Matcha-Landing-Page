@@ -3,10 +3,7 @@ header, footer {
     padding-bottom: 20px;
 }
 
-.imgclass {
-    width: 200px;
-    height: 200px;
-}
+
 
 body {
     font-family: "Lato", calibri;
@@ -76,8 +73,8 @@ button {
 }
 
 .imgclass{
-    max-width: 250px;
-    max-height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 5px;
     
 }
@@ -151,7 +148,9 @@ h3 {
     font-style: normal;
 }
 
-
+button:hover {
+    background-color: #006400;
+}
 
 
 
